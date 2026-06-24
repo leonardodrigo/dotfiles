@@ -7,11 +7,10 @@
     // - "light": Use the theme indicated by the "light" field
     // - "dark": Use the theme indicated by the "dark" field
     "theme": {
-        "mode": "system",
-        "light": "One Light",
-        "dark": "One Dark",
+        "light": "Ayu Light",
+        "dark": "Ayu Dark",
     },
-    "icon_theme": "Zed (Default)",
+    "icon_theme": "Material Icon Theme",
     // The name of a base set of key bindings to use.
     // This setting can take six values, each named after another
     // text editor:
@@ -774,7 +773,7 @@
         // Default width of the project panel.
         "default_width": 240,
         // Where to dock the project panel. Can be 'left' or 'right'.
-        "dock": "right",
+        "dock": "left",
         // Spacing between worktree entries in the project panel. Can be 'comfortable' or 'standard'.
         "entry_spacing": "comfortable",
         // Whether to show file icons in the project panel.
